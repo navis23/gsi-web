@@ -16,6 +16,12 @@ module.exports = {
       fontFamily: {
         oswald : ['Oswald'],
         opensans : ['Open Sans'],
+      },
+      colors: {
+        'gsi-darkblue' : '#365b6d',
+        'gsi-gold' : '#fcba56',
+        'gsi-brightblue' : '#41c1ba',
+        'gsi-smokewhite' : '#f2f1ec'
       }
     },
   },

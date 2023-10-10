@@ -18,6 +18,9 @@
 .muted {
     @apply bg-gray-500 hover:bg-gray-400
 }
+.gold {
+    @apply bg-gsi-gold text-slate-800 hover:bg-gsi-gold hover:text-gsi-darkblue
+}
 .mono {
     @apply bg-slate-50 text-gray-600 border hover:bg-white
 }
