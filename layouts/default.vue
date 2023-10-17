@@ -3,6 +3,7 @@
         <div class="w-full">
             <slot />
         </div>
+        <Footer />
     </div>
 </template>
 
